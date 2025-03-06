@@ -373,13 +373,13 @@ p.caption {
     font-weight: 400;
     font-size: 16px;
     padding: 12px 20px;
-    background-color: #0077cc;
+    background-color: #4F5E81;
     color: white;
     border-radius: 5px;
     text-decoration: none;
 }
 .explorebtn a:hover {
-    background-color: #005fa3;
+    background-color: #3F4D6A;
 }
 .contacttbox {
     display: flex;
